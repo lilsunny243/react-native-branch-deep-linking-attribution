@@ -1,12 +1,12 @@
 PODS:
-  - Branch (0.27.1):
-    - Branch/Core (= 0.27.1)
-  - Branch/Core (0.27.1)
+  - Branch (0.28.1):
+    - Branch/Core (= 0.28.1)
+  - Branch/Core (0.28.1)
   - OCMock (3.4.3)
   - React (0.43.4):
     - React/Core (= 0.43.4)
   - react-native-branch (3.1.1):
-    - Branch (= 0.27.1)
+    - Branch (= 0.28.1)
     - React
   - React/Core (0.43.4):
     - React/cxxreact
