@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "react": "16.8.6",
-    "react-native": "0.60.3",
+    "react-native": "0.72.6",
     "react-native-branch": "^4.1.0",
     "react-native-webview": "^5.12.1"
   },
